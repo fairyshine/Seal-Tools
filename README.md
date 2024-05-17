@@ -2,7 +2,7 @@
 
 The source code and dataset mentioned in the paper **Seal-Tools: Self-Instruct Tool Learning Dataset for Agent Tuning and Detailed Benchmark**.
 
-
+https://arxiv.org/abs/2405.08355
 
 ## Files
 
