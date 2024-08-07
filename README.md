@@ -4,6 +4,8 @@ The source code and dataset mentioned in the paper **Seal-Tools: Self-Instruct T
 
 https://arxiv.org/abs/2405.08355
 
+🎉 Our paper has been accepted for presentation at the NLPCC 2024 conference.🎉 
+
 ## Files
 
 ### ./Dataset_Construct/ 🌟
