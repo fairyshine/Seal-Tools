@@ -80,6 +80,7 @@ if __name__=="__main__":
                 
                 easy_result = calculate_score_ToolLearning(easy_split)
                 difficult_result = calculate_score_ToolLearning(difficult_split)
+                result = {}
                 result["easy"] = easy_result
                 result["difficult"] = difficult_result
                 save_path = path_prefix + folder_name + "/result_split" + path_suffix.split("pred")[-1][:-1]
