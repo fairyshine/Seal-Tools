@@ -6,6 +6,8 @@ https://arxiv.org/abs/2405.08355
 
 🎉 Our paper has been accepted for presentation at the NLPCC 2024 conference.🎉 
 
+https://link.springer.com/chapter/10.1007/978-981-97-9434-8_29
+
 ## Files
 
 ### ./Dataset_Construct/ 🌟
